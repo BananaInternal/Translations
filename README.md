@@ -1,11 +1,11 @@
 # Translations
 Repository fro web site, software and accounting plans translations 
 
-## Microsoft Translator Hub
+## Microsoft Custom Translation
 
-- [Login to MTH](https://hub.microsofttranslator.com/SignIn?returnURL=%2FHome%2FIndex)
-- [Presentation page Documentation](https://www.microsoft.com/it-it/translator/business/hub/)
-  - [User guide](https://hub.microsofttranslator.com/Help/Download/Microsoft%20Translator%20Hub%20User%20Guide.pdf)
-  - [API Guide](https://hub.microsofttranslator.com/Help/Download/Microsoft%20Translator%20Hub%20API%20Guide.pdf)
+- [Login to Microsoft Custom Translation](https://portal.customtranslator.azure.ai/)
+- [Presentation page Documentation](https://portal.customtranslator.azure.ai/)
+  - [User guide](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/custom-translator/overview)
+  - [API Guide](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview)
   
  
